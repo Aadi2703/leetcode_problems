@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Aadi2703/leetcode_problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Aadi2703/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Aadi2703/leetcode_problems/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Aadi2703/leetcode_problems/tree/master/1903-largest-odd-number-in-string) |
