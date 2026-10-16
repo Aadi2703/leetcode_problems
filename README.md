@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Aadi2703/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Aadi2703/leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/Aadi2703/leetcode_problems/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Aadi2703/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aadi2703/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/Aadi2703/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Aadi2703/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Aadi2703/leetcode_problems/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Aadi2703/leetcode_problems/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
@@ -102,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Aadi2703/leetcode_problems/tree/master/0141-linked-list-cycle) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Aadi2703/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Aadi2703/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
