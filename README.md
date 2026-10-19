@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Aadi2703/leetcode_problems/tree/master/0232-implement-queue-using-stacks) |
 | [1021-remove-outermost-parentheses](https://github.com/Aadi2703/leetcode_problems/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
@@ -124,10 +125,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Aadi2703/leetcode_problems/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aadi2703/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Aadi2703/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Aadi2703/leetcode_problems/tree/master/1189-maximum-number-of-balloons) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Aadi2703/leetcode_problems/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
