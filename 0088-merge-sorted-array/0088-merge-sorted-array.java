@@ -25,8 +25,8 @@ class Solution {
             box.add(nums2[j]);
             j++;
         }
-        for (int k = 0; k < box.size(); k++) {
-            nums1[k] = box.get(k);
+       for (int k = 0; k < box.size(); k++) {
+            nums1[k] = box.get(k); 
         }
     }
 }
