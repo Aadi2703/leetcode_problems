@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Aadi2703/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Aadi2703/leetcode_problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aadi2703/leetcode_problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Aadi2703/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Aadi2703/leetcode_problems/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aadi2703/leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Aadi2703/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aadi2703/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Aadi2703/leetcode_problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Aadi2703/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Aadi2703/leetcode_problems/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Aadi2703/leetcode_problems/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aadi2703/leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aadi2703/leetcode_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aadi2703/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Aadi2703/leetcode_problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Aadi2703/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Aadi2703/leetcode_problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Aadi2703/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
 | ------- |
@@ -129,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Aadi2703/leetcode_problems/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/Aadi2703/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 ## Queue
 |  |
 | ------- |
@@ -143,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Aadi2703/leetcode_problems/tree/master/0232-implement-queue-using-stacks) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Aadi2703/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
