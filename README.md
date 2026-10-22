@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Aadi2703/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Aadi2703/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Aadi2703/leetcode_problems/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/Aadi2703/leetcode_problems/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aadi2703/leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aadi2703/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Aadi2703/leetcode_problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aadi2703/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/Aadi2703/leetcode_problems/tree/master/0704-binary-search) |
 ## Greedy
 |  |
 | ------- |
