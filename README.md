@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Aadi2703/leetcode_problems/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Aadi2703/leetcode_problems/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aadi2703/leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Aadi2703/leetcode_problems/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Aadi2703/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Aadi2703/leetcode_problems/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Aadi2703/leetcode_problems/tree/master/1903-largest-odd-number-in-string) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Aadi2703/leetcode_problems/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aadi2703/leetcode_problems/tree/master/0053-maximum-subarray) |
+## Number Theory
+|  |
+| ------- |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Aadi2703/leetcode_problems/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 <!---LeetCode Topics End-->
