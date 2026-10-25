@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Aadi2703/leetcode_problems/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aadi2703/leetcode_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Aadi2703/leetcode_problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Aadi2703/leetcode_problems/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/Aadi2703/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Aadi2703/leetcode_problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Aadi2703/leetcode_problems/tree/master/0137-single-number-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aadi2703/leetcode_problems/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Aadi2703/leetcode_problems/tree/master/0055-jump-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Aadi2703/leetcode_problems/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aadi2703/leetcode_problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Aadi2703/leetcode_problems/tree/master/0055-jump-game) |
 ## Number Theory
 |  |
 | ------- |
