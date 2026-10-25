@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Aadi2703/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/Aadi2703/leetcode_problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Aadi2703/leetcode_problems/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Aadi2703/leetcode_problems/tree/master/0326-power-of-three) |
 | [1903-largest-odd-number-in-string](https://github.com/Aadi2703/leetcode_problems/tree/master/1903-largest-odd-number-in-string) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Aadi2703/leetcode_problems/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Bit Manipulation
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Aadi2703/leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Aadi2703/leetcode_problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Aadi2703/leetcode_problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Aadi2703/leetcode_problems/tree/master/0326-power-of-three) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
