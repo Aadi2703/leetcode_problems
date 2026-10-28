@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Aadi2703/leetcode_problems/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Aadi2703/leetcode_problems/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aadi2703/leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Aadi2703/leetcode_problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Aadi2703/leetcode_problems/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Divide and Conquer
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aadi2703/leetcode_problems/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aadi2703/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Aadi2703/leetcode_problems/tree/master/1189-maximum-number-of-balloons) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Aadi2703/leetcode_problems/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Math
 |  |
 | ------- |
