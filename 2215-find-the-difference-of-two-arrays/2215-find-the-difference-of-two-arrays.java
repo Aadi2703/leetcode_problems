@@ -9,7 +9,6 @@ class Solution {
             for (int j = 0; j < nums2.length; j++) {
                 if (nums1[i] == nums2[j]) {
                     found = true;
-                    break;
                 }
             }
             if (!found && !set1.contains(nums1[i])) {
@@ -23,7 +22,6 @@ class Solution {
             for (int j = 0; j < nums1.length; j++) {
                 if (nums2[i] == nums1[j]) {
         found = true;
-                    break;
      }
             }
             if (!found && !set2.contains(nums2[i])) {
