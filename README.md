@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Aadi2703/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aadi2703/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aadi2703/leetcode_problems/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/Aadi2703/leetcode_problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aadi2703/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Aadi2703/leetcode_problems/tree/master/1189-maximum-number-of-balloons) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Aadi2703/leetcode_problems/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Aadi2703/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Aadi2703/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Aadi2703/leetcode_problems/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Aadi2703/leetcode_problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aadi2703/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Aadi2703/leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Aadi2703/leetcode_problems/tree/master/1021-remove-outermost-parentheses) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Aadi2703/leetcode_problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aadi2703/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Aadi2703/leetcode_problems/tree/master/1189-maximum-number-of-balloons) |
 ## Design
