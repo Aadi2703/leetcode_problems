@@ -5,8 +5,9 @@ class Solution {
         for(int i =0;i<nums.length;i++){
             if(box.contains(nums[i])){
 return nums[i];
-            }
+            }else{
             box.add(nums[i]);
+            }
         }
         return -1;
     }
