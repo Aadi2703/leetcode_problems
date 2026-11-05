@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Aadi2703/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Aadi2703/leetcode_problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Aadi2703/leetcode_problems/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/Aadi2703/leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aadi2703/leetcode_problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Aadi2703/leetcode_problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aadi2703/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aadi2703/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Aadi2703/leetcode_problems/tree/master/0055-jump-game) |
+| [0152-maximum-product-subarray](https://github.com/Aadi2703/leetcode_problems/tree/master/0152-maximum-product-subarray) |
 ## Number Theory
 |  |
 | ------- |
