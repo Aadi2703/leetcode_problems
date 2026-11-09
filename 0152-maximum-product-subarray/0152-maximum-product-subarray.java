@@ -9,7 +9,6 @@ class Solution {
             maxproduct = Math.max(nums[i],Math.max(nums[i]*mintemp,nums[i]*maxtemp));
             minproduct = Math.min(nums[i],Math.min(nums[i]*mintemp,nums[i]*maxtemp));
 result = Math.max(result,maxproduct);
-
         }
         return result;
     }
