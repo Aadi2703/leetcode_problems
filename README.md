@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Aadi2703/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Aadi2703/leetcode_problems/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Aadi2703/leetcode_problems/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Aadi2703/leetcode_problems/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aadi2703/leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Aadi2703/leetcode_problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Aadi2703/leetcode_problems/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
@@ -244,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Aadi2703/leetcode_problems/tree/master/0039-combination-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Aadi2703/leetcode_problems/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
